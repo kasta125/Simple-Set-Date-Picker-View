@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Simple Picker View Calculator
 //
-//  Created by koryasta on 1/10/17.
+//  Created by koryasta and ablake on 1/10/17.
 //  Copyright © 2017 Student. All rights reserved.
 //
 
