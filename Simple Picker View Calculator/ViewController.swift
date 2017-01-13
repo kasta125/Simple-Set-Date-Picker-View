@@ -10,7 +10,10 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    @IBOutlet weak var pickerView: UIPickerView!
+    @IBOutlet weak var pickerView: UIPickerView! // Month
+    @IBOutlet weak var pickerViewTwo: UIPickerView! // Days
+    @IBOutlet weak var pickerViewThree: UIPickerView! // Month
+    @IBOutlet weak var pickerViewFour: UIPickerView! // Days
     
     override func viewDidLoad()
     {

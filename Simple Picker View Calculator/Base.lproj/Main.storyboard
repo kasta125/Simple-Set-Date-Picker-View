@@ -46,6 +46,9 @@
                     </view>
                     <connections>
                         <outlet property="pickerView" destination="6Qb-yY-BwC" id="UKv-z0-BBd"/>
+                        <outlet property="pickerViewFour" destination="Lft-py-Gru" id="Bbf-ri-sfJ"/>
+                        <outlet property="pickerViewThree" destination="01k-S8-I0p" id="2xb-N7-9W9"/>
+                        <outlet property="pickerViewTwo" destination="apE-s7-Ug3" id="5e1-XP-juo"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
